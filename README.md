@@ -42,8 +42,7 @@ Customer Operations: Customers can view the menu, buy items, and track their ord
 Running the Program
 2. To run the system, simply run the main Python script:
 
-    ```bash
-    python main.py
+      python main.py
     
 You will be presented with a menu where you can either log in as an admin or proceed as a customer.
 Files
@@ -53,18 +52,15 @@ CostumerFile.csv: Stores customer order information (ID, name, date, items, pric
 Example of CSV Files
 AdminFile.csv:
 
-    ```csv
     admin,admin123
 
 MenuFile.csv:
 
-    ```csv
     Burger,10,20
     Pizza,15,30
 
 CostumerFile.csv:
 
-    ```csv
     810,rao,2025-03-13 00:52:37.106115
     ITEMS,PRICE_1,QUANTITY
     CAKE,100,3
